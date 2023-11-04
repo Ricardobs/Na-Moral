@@ -1,2 +1,2 @@
 # Na-Moral
-'Na Moral' é um bot interativo que auxilia os usuários a entender o assédio moral. Ele oferece orientações jurídicas e de saúde mental por meio de conversas pessoais, fornecendo suporte emocional e informações úteis.   Este repositório contém o código-fonte do projeto e a documentação relacionada.
+'Na Moral' is an interactive bot that helps users understand workplace harassment. It provides legal and mental health guidance through personal conversations, offering emotional support and useful information. This repository contains the project's source code and related documentation.
